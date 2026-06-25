@@ -1,4 +1,4 @@
-#Function
+# ❤ Function
 # def hello():
 #     print("hello function is working")
 # hello()
@@ -60,7 +60,8 @@
 # result = sum(10,20)
 # print(result)
 
-#Lamda function [lamda argument:expression]
+
+# ❤ Lamda function [lamda argument:expression]
 # add = lambda x: x
 # print(add(100))
 

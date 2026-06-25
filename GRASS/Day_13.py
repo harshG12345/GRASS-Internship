@@ -37,11 +37,11 @@ import pandas as pd
 | Import          | pd.read_csv(fn)| pd.read_json(fn)| pd.read_excel(fn)|
    """
 
-# df = pd.read_csv("file1.csv")
-# print(df)
+df = pd.read_csv("file2.csv")
+print(df)
 
-# df1 = pd.read_excel("file1.xlsx")
-# print(df1)
+df1 = pd.read_excel("file2.xlsx")
+print(df1)
 
-# df2 = pd.read_json("file1.json")
-# print(df2)
+df2 = pd.read_json("file2.json")
+print(df2)

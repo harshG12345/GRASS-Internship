@@ -90,8 +90,8 @@
 # print(num1 is num2)
 
 # -5 to 256 -> both  variable will point to same memory location
-num1 = 270
-num2 = 270
-print(num1 is num2)
-print (id(num1))
-print (id(num2))
+# num1 = 270
+# num2 = 270
+# print(num1 is num2)
+# print (id(num1))
+# print (id(num2))

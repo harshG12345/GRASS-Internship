@@ -1,8 +1,12 @@
 # Dictionary methods
-""" 1. update()
-    2. del
-    3. pop()
-    4.  
+""" 1.get()
+    2.keys()
+    3.values()
+    4.items()
+    5.update()
+    6.clear()
+    7.copy()
+    8.del
 """
 # d = {'name': 'hello', 'age': 20}
 # d.update({'name': 'arya'})

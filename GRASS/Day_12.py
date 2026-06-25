@@ -1,6 +1,6 @@
 """Sorting
     sort() in 1d
-    sort() in 2d -> use axis = 0 as columns and axis = 1 as rows
+    sort() in 2d -> use axis = 1 as columns and axis = 0 as rows
 """
 import numpy as np 
 
